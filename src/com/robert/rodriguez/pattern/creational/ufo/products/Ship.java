@@ -1,4 +1,4 @@
 package com.robert.rodriguez.pattern.creational.ufo.products;
 
-public class Ship {
+public abstract class Ship {
 }
